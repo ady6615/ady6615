@@ -34,7 +34,7 @@ Currently exploring game development with **Python + Pygame**, building a simple
 Working with concepts including:
 
 * Machine Learning classification
-* NLP and text representation
+* NLP and text representation.
 * Bag of Words and TF-IDF
 * Attention mechanisms and Transformers
 * PyTorch
