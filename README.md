@@ -39,7 +39,7 @@ Working with concepts including:
 * Attention mechanisms and Transformers
 * PyTorch
 * Data preprocessing and evaluation
-* Generative AI
+* Generative AI.
 
 ---
 
